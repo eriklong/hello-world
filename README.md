@@ -1,2 +1,2 @@
 # hello-world
-1st repository
+Hello world my name is Erik Long!
